@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Natanael — Aspiring OSCP & Independent Ethical Hacker
 
-<!--
-**Nconcha5/Nconcha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT professional transitioning into ethical hacking with a focus on:
+- Penetration Testing & Red Teaming  
+- Active Directory Attacks & Defense  
+- Offensive Tooling (Python & C)  
+- C2 Development & Windows Internals  
+- HackTheBox & Capture The Flag practice  
+- Vulnerability Research & Malware Concepts  
 
-Here are some ideas to get you started:
+My goal is to become a **full-time independent ethical hacker** with a portfolio built through real labs, tools, and structured methodology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Current Focus
+- 🔥 Preparing for **OSCP**  
+- 🛡️ Studying **Active Directory attack chains**  
+- 🐍 Building offensive tooling in **Python**  
+- 💻 Learning low-level concepts through **C programming**  
+- 🏴 Solving HackTheBox machines (methodology only)  
+
+---
+
+# 🛠️ Projects (Highlighted)
+
+### 🔸 Offensive Security Tools
+- **Python Port Scanner** — fast, threaded, customizable  
+- **SSH Brute Automator (Python)**  
+- **HTTP Server + Honeypot (C)**  
+- **Basic C2 Framework Skeleton (C/Python)**  
+
+### 🔸 C / Reverse Engineering Projects
+- C HTTP Server (with logs & analysis)  
+- Process injector experiments  
+- String obfuscation/morphism examples  
+
+### 🔸 HackTheBox Methodology Notes (No Flags)
+A collection of:
+- Windows Priv Esc  
+- Linux Priv Esc  
+- AD attacks  
+- Web exploitation  
+- Enumeration workflows  
+
+---
+
+# 📚 Certifications & Learning
+- Google Cybersecurity Certificate  
+- TryHackMe: Junior PenTester  
+- INE eJPT (In progress)  
+- OSCP (2026 Goal)  
+
+---
+
+# 📬 Connect With Me
+- Email:  natanaelconcha92@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/natanael-concha-b8541222b/
+
