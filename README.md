@@ -21,7 +21,7 @@ My goal is to become a **full-time independent ethical hacker** with a portfolio
 
 ---
 
-# 🛠️ Projects (Highlighted)
+# 🛠️ Projects 
 
 ### 🔸 Offensive Security Tools
 - **Python Port Scanner** — fast, threaded, customizable  
@@ -29,12 +29,9 @@ My goal is to become a **full-time independent ethical hacker** with a portfolio
 - **HTTP Server + Honeypot (C)**  
 - **Basic C2 Framework Skeleton (C/Python)**  
 
-### 🔸 C / Reverse Engineering Projects
-- C HTTP Server (with logs & analysis)  
-- Process injector experiments  
-- String obfuscation/morphism examples  
+  
 
-### 🔸 HackTheBox Methodology Notes (No Flags)
+### 🔸 HackTheBox Methodology Notes 
 A collection of:
 - Windows Priv Esc  
 - Linux Priv Esc  
